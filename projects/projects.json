@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Green Grid",
+    "desc": "Predicting Load on the grid using ML and exisiting data.It also show the user nearby charging stations for EV.",
+    "image": "greengrid",
+    "links": {
+      "view": "https://zingy-cannoli-c5e789.netlify.app/",
+      "code": "https://github.com/Mayank2808sharma/decodeiiithackthon"
+    }
+  },
+  {
+    "name": "SORTING ALGORITHM VISUALIZER",
+    "desc": "This project helps in Visualizing how different sorting algorithm works.",
+    "image": "sortingalgo",
+    "links": {
+      "view": "https://mayank2808sharma.github.io/Sorting-Algo-Vizualizer/",
+      "code": "https://github.com/Mayank2808sharma/Sorting-Algo-Vizualizer"
+    }
+  },
+  {
+    "name": "E-COMMERCE WEBSITE(STYLEME)",
+    "desc": "An E-Commerce Website that provides the option of checking out cloth in 3d mannequin Prototype.",
+    "image": "styleme",
+    "links": {
+      "view": "https://mayank2808sharma.github.io/hackachino-project/",
+      "code": "https://github.com/Mayank2808sharma/hackachino-project"
+    }
+  },
+  {
+    "name": "Dice-roll-game",
+    "desc": "Dice-Roll is a 2 Player game in which player to score 100 first wins",
+    "image": "dicegame",
+    "links": {
+      "view": "https://mayank2808sharma.github.io/Dice-roll-game/",
+      "code": "https://github.com/Mayank2808sharma/Dice-roll-game"
+    }
+  },
+  {
+    "name": "Tip-Calculator",
+    "desc": "This is a an web Application that calculates the total bill which includes Total amount of the bill and the tip",
+    "image": "tipcal",
+    "links": {
+      "view": "https://mayank2808sharma.github.io/Tip-Calculator/",
+      "code": "https://github.com/Mayank2808sharma/Tip-Calculator"
+    }
+  },
+  {
+    "name": "How's the weather",
+    "desc": "Shows current weather, minimum and maximum temperature.",
+    "image": "weaterapi",
+    "links": {
+      "view": "https://API-weather.mayank2808.repl.co",
+      "code": "https://replit.com/@mayank2808/API-weather#script.js"
+    }
+  }
+]
