@@ -282,8 +282,11 @@
       <div class="image-box">
         <img draggable="false" src="./assets/images/contact1.png" alt="">
       </div>
-    <form id="contact-form" class = "con-form" action="https://formsubmit.co/7c03e6265a808dcdc016b818c7d2ea82" method="post">
-      
+    <form id="contact-form" class = "con-form" action="https://formsubmit.co/7c03e6265a808dcdc016b818c7d2ea82 " method="post">
+      <!-- Honeypot -->
+      <input type = "text" name="_honey" style="display: none;">
+      <!-- Disable captcha -->
+      <input type="hidden" name="captcha" value="false">
       <div class="form-group" >
         <div class="field">
           <input id="name" class="name" type="text" name="name" placeholder="Name" required>
