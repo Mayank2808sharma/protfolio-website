@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "Green Grid",
+    "name": "Grid Load Prediction using AI",
     "desc": "Predicting Load on the grid using ML and exisiting data.It also show the user nearby charging stations for EV.",
     "image": "greengrid",
     "links": {
