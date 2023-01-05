@@ -1,4 +1,14 @@
 [
+  
+  {
+    "name": "E-COMMERCE WEBSITE(STYLEME)",
+    "desc": "An E-Commerce Website that provides the option of checking out cloth in 3d mannequin Prototype.",
+    "image": "styleme",
+    "links": {
+      "view": "https://mayank2808sharma.github.io/hackachino-project/",
+      "code": "https://github.com/Mayank2808sharma/hackachino-project"
+    }
+  },
   {
     "name": "Green Grid",
     "desc": "Predicting Load on the grid using ML and exisiting data.It also show the user nearby charging stations for EV.",
@@ -15,15 +25,6 @@
     "links": {
       "view": "https://mayank2808sharma.github.io/Sorting-Algo-Vizualizer/",
       "code": "https://github.com/Mayank2808sharma/Sorting-Algo-Vizualizer"
-    }
-  },
-  {
-    "name": "E-COMMERCE WEBSITE(STYLEME)",
-    "desc": "An E-Commerce Website that provides the option of checking out cloth in 3d mannequin Prototype.",
-    "image": "styleme",
-    "links": {
-      "view": "https://mayank2808sharma.github.io/hackachino-project/",
-      "code": "https://github.com/Mayank2808sharma/hackachino-project"
     }
   },
   {
