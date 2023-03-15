@@ -21,7 +21,7 @@
   },
   {
     "name": "Solidity",
-    "icon": "https://img.icons8.com/material-rounded/24/null/solidity.png"
+    "icon": "https://api.iconify.design/vscode-icons/file-type-solidity.svg?width=64&height=64"
   },
    {
     "name": "Hardhat",
@@ -29,11 +29,11 @@
   },
   {
     "name": "Truffle",
-    "icon": "https://api.iconify.design/vscode-icons/file-type-truffle.svg"
+    "icon": "https://api.iconify.design/vscode-icons/file-type-truffle.svg?width=64&height=64"
   },
   {
     "name": "Ganache",
-    "icon": "<http://www.w3.org/2000/svg"
+    "icon": "https://api.iconify.design/logos/ganache-icon.svg?width=64&height=64"
   },
   {
     "name": "C++",
