@@ -19,10 +19,7 @@
     "name": "TailwindCSS",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
   },
-  {
-    "name": "Solidity",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png"
-  },
+  
   {
     "name": "C++",
     "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
