@@ -21,7 +21,7 @@
   },
   {
     "name": "Solidity",
-    "icon": "https://icons8.com/icon/m2cLk2L36CAa/solidity"
+    "icon": "https://img.icons8.com/material-rounded/24/null/solidity.png"
   },
    {
     "name": "Hardhat",
@@ -29,7 +29,7 @@
   },
   {
     "name": "Truffle",
-    "icon": "http://www.w3.org/2000/svg"
+    "icon": "https://api.iconify.design/vscode-icons/file-type-truffle.svg"
   },
   {
     "name": "Ganache",
